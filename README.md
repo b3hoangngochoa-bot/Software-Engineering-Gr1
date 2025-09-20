@@ -1,5 +1,4 @@
 # Software-Engineering-Group 1
----
 🛠️ Software Engineering Project – Mini App Đặt Bàn Nhà Hàng
 ---
 📌 Giới thiệu
