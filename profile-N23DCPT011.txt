@@ -1,0 +1,19 @@
+Hello, my name is Bui Thanh Dat.  
+I am currently a Software Engineering student at Post and telecommunications institute of technology Ho Chi Minh City.  
+
+🔹 Interests:
+- Software requirements and system analysis  
+- Web and mobile application development  
+- Artificial Intelligence and Machine Learning  
+
+🔹 Skills:
+- Programming languages: HTML, CSS, JavaScript, C#, SQL  
+- Tools: Git, Visual Studio Code, Jira, MySQL workbench, Nodejs  
+- Development process: Agile - Scrum, Waterfall  
+
+🔹 Goals:
+- To become a professional software engineer or game developer
+- To contribute to real-world software projects  
+- To keep learning about new technologies and trends in the IT industry  
+
+Thank you for reading my introduction.
