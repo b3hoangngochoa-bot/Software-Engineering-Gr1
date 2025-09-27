@@ -46,13 +46,13 @@ Normal Course (Basic Flow):
 
 Alternative Flow:
 
-UC-01.AC.1: Customer sử dụng bộ lọc nâng cao (giá, đánh giá, khuyến mãi) → hệ thống hiển thị kết quả theo tiêu chí lọc.
+UC-01.AC.1: Customer sử dụng bộ lọc nâng cao (giá, đánh giá, khuyến mãi) → hệ thống hiển thị kết quả theo tiêu chí lọc.
 
 Exception Flow:
 
-UC-01.EX.1: Không tìm thấy kết quả → hệ thống hiển thị thông báo “Không có nhà hàng phù hợp” và gợi ý lựa chọn khác.
+UC-01.EX.1: Không tìm thấy kết quả → hệ thống hiển thị thông báo “Không có nhà hàng phù hợp” và gợi ý lựa chọn khác.
 
-UC-01.EX.2: Lỗi kết nối mạng → hệ thống thông báo lỗi và yêu cầu thử lại.
+UC-01.EX.2: Lỗi kết nối mạng → hệ thống thông báo lỗi và yêu cầu thử lại.
 
 Includes: Xem thông tin, xem menu, xem giá, xem đánh giá.
 Special Requirements: Thời gian phản hồi kết quả ≤ 3 giây, giao diện thân thiện, hỗ trợ cả mobile.
@@ -112,22 +112,22 @@ Normal Course (Basic Flow):
 
 Alternative Flow:
 
-UC-02.AC.1: Customer không thanh toán cọc (nếu nhà hàng cho phép) → hệ thống lưu booking ở trạng thái “Chưa đặt cọc”.
+UC-02.AC.1: Customer không thanh toán cọc (nếu nhà hàng cho phép) → hệ thống lưu booking ở trạng thái “Chưa đặt cọc”.
 
-UC-02.AC.2: Customer chọn “Cancel” trước khi xác nhận → hệ thống hủy thao tác đặt bàn.
+UC-02.AC.2: Customer chọn “Cancel” trước khi xác nhận → hệ thống hủy thao tác đặt bàn.
 
 Exception Flow:
 
-UC-02.EX.1: Không còn bàn trống → hệ thống thông báo và gợi ý thời gian khác.
+UC-02.EX.1: Không còn bàn trống → hệ thống thông báo và gợi ý thời gian khác.
 
-UC-02.EX.2: Thanh toán thất bại → hệ thống thông báo lỗi và yêu cầu thử lại hoặc chọn phương thức khác.
+UC-02.EX.2: Thanh toán thất bại → hệ thống thông báo lỗi và yêu cầu thử lại hoặc chọn phương thức khác.
 
 Includes: Nhập thông tin, thanh toán cọc, nhận thông báo.
 Special Requirements:
 
-Hệ thống đảm bảo bảo mật khi thanh toán (chuẩn PCI DSS).
+Hệ thống đảm bảo bảo mật khi thanh toán (chuẩn PCI DSS).
 
-Thời gian phản hồi xác nhận ≤ 5 giây.
+Thời gian phản hồi xác nhận ≤ 5 giây.
 
 Assumptions: Nhà hàng luôn cập nhật trạng thái bàn trống chính xác.
 Notes and Issues: Cần kiểm thử kỹ các trường hợp thanh toán online.
