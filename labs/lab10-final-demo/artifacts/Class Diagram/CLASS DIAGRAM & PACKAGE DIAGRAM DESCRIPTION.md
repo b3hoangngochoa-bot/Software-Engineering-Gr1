@@ -163,7 +163,7 @@ Sau đó gom nhóm các lớp theo chức năng thành **Package Diagram** để
 
 Sơ đồ lớp thể hiện các đối tượng chính trong hệ thống, thuộc tính, phương thức và quan hệ kế thừa/liên kết.
 
-![Class Diagram](Class-diagram.png)
+![Class Diagram](../../../lab06/Class-diagram.png)
 
 ---
 
@@ -204,4 +204,4 @@ Sơ đồ lớp thể hiện các đối tượng chính trong hệ thống, thu
 
 Sơ đồ gói gom các lớp vào từng package theo chức năng (Auth, Booking, Payment, Restaurant, Notify, Reporting) và chỉ ra sự phụ thuộc giữa các gói.
 
-![Package Diagram](Package-diagram.png)
+![Package Diagram](../../../lab06/Package-diagram.png)
