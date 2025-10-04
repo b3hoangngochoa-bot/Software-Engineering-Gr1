@@ -7,7 +7,7 @@
 
 👥 Thành viên nhóm
 - Bùi Thành Đạt - Leader, Developer Backend, Tester
-- Hoàng Ngọc Hòa - Developer Frontend, Tester
+- [Hoàng Ngọc Hòa](https://b3hoangngochoa-bot.github.io/HoaHoangNgoc.github.io/) - Developer Frontend, Tester
 - Lâm Quốc Toàn - UI/UX designer, Tester
 
 🎯 Use Case chính
